@@ -1,0 +1,17 @@
+C:\Progs\MiSKPO_1\Mover\obj\Debug\net6.0-windows\Mover.csproj.AssemblyReference.cache
+C:\Progs\MiSKPO_1\Mover\obj\Debug\net6.0-windows\Mover.Form1.resources
+C:\Progs\MiSKPO_1\Mover\obj\Debug\net6.0-windows\Mover.csproj.GenerateResource.cache
+C:\Progs\MiSKPO_1\Mover\obj\Debug\net6.0-windows\Mover.GeneratedMSBuildEditorConfig.editorconfig
+C:\Progs\MiSKPO_1\Mover\obj\Debug\net6.0-windows\Mover.AssemblyInfoInputs.cache
+C:\Progs\MiSKPO_1\Mover\obj\Debug\net6.0-windows\Mover.AssemblyInfo.cs
+C:\Progs\MiSKPO_1\Mover\obj\Debug\net6.0-windows\Mover.csproj.CoreCompileInputs.cache
+C:\Progs\MiSKPO_1\Mover\bin\Debug\net6.0-windows\Mover.exe
+C:\Progs\MiSKPO_1\Mover\bin\Debug\net6.0-windows\Mover.deps.json
+C:\Progs\MiSKPO_1\Mover\bin\Debug\net6.0-windows\Mover.runtimeconfig.json
+C:\Progs\MiSKPO_1\Mover\bin\Debug\net6.0-windows\Mover.dll
+C:\Progs\MiSKPO_1\Mover\bin\Debug\net6.0-windows\Mover.pdb
+C:\Progs\MiSKPO_1\Mover\obj\Debug\net6.0-windows\Mover.dll
+C:\Progs\MiSKPO_1\Mover\obj\Debug\net6.0-windows\refint\Mover.dll
+C:\Progs\MiSKPO_1\Mover\obj\Debug\net6.0-windows\Mover.pdb
+C:\Progs\MiSKPO_1\Mover\obj\Debug\net6.0-windows\Mover.genruntimeconfig.cache
+C:\Progs\MiSKPO_1\Mover\obj\Debug\net6.0-windows\ref\Mover.dll
